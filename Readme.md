@@ -57,7 +57,7 @@ homelab/ | Simulated attacks (via Atomic Red Team or similar) with raw logs and 
 
 
 <h2>📌 A Note on Sourcing</h2>
-<p>Any IOC, technique detail, or campaign fact referenced in this repo is drawn from and cited to public vendor/CTI reporting (e.g., Microsoft, Mandiant, CrowdStrike blogs). Detection logic is my own, written to be illustrative of the technique rather than copied from any employer's internal rule set.</p>
+<p>Any IOC, technique detail, or campaign fact referenced in this repo is drawn from and cited to public vendor/CTI reporting (e.g., Microsoft, Mandiant, CrowdStrike blogs). Detection logic is my own, written to be illustrative of the technique.</p>
 <hr>
 <p><strong>📫 Connect with me on <a href="https://linkedin.com/in/inti-hemanth/">LinkedIn</a></strong> — I write a running series on practitioner-level SOC analysis and detection engineering there too.</p>
 </body></html><!--EndFragment-->
