@@ -46,7 +46,7 @@ Most IR writeups stop at "contain, eradicate, recover." This one focuses on the 
 
 ## 📄 Read the Full Report
 
-[Multi-Vector Incident Response & Recovery Report](./report.md)
+[Multi-Vector Incident Response & Recovery Report](https://github.com/intihemanth/SOC-Detection-Engineering-Portfolio/blob/main/Methodology/Multi-Vector%20Incident%20Response%20%26%20Recovery/Report.md)
 
 ---
 
