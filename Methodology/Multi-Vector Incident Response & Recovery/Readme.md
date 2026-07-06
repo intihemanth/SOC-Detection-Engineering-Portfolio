@@ -46,7 +46,7 @@ Most IR writeups stop at "contain, eradicate, recover." This one focuses on the 
 
 ## 📄 Read the Full Report
 
-[Multi-Vector Incident Response & Recovery Report](./Methodology/Multi-Vector Incident Response & Recovery/report.md)
+[Multi-Vector Incident Response & Recovery Report](./Report.md)
 
 ---
 
